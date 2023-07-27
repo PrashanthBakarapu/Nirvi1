@@ -4,5 +4,6 @@ public static void main([string args[])
 {
 system.out.println("One");
 system.out.println("Two");
+system.out.println("Three");
 }
 }
